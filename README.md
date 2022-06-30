@@ -4,8 +4,20 @@
 
 June 30th, 2022
 
-Suggested reading list
+A possible order to read:
 
-[Probabilistic-Robotics-en.pdf](Probabilistic-Robotics-en.pdf)
+1. [Probabilistic-Robotics-en.pdf](Probabilistic-Robotics-en.pdf)
 
-[Siciliano%20-%202009%20-%20Robotics%20modelling%2C%20planning%20and%20control.pdf](Siciliano%20-%202009%20-%20Robotics%20modelling%2C%20planning%20and%20control.pdf)
+1. [Siciliano%20-%202009%20-%20Robotics%20modelling%2C%20planning%20and%20control.pdf](Siciliano%20-%202009%20-%20Robotics%20modelling%2C%20planning%20and%20control.pdf)
+
+
+1.   []()
+1.   []()
+1.   []()
+1.   []()
+1.   []()
+1.   []()
+
+
+
+
